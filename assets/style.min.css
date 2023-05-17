@@ -123,12 +123,14 @@ div.person {
     div.person .person-thumbnail .person-avatar {
       overflow: hidden;
       border-radius: 50%;
+      object-fit: cover;
       height: 6em;
       width: 6em;
       margin: 0em 2em 1em 0; }
     div.person .person-thumbnail .person-image {
       height: 100%;
       width: 100%;
+      object-fit: cover;
       display: inline-block;
       background-size:cover; 
     }
