@@ -1,5 +1,4 @@
 resource: 
-  - topic: Resource 1
-    link: http://example.com/res1/path
-  - topic: Resource 2
-    link: http://example.com/res2/path  
+  - topic: Text Book
+    link: https://github.com/linear-algebra-sut/lecture-notes/raw/main/Resources/Strang_G_Linear_algebra_and_its_applications_Brooks_2005_1.pdf
+
