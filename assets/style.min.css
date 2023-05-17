@@ -121,11 +121,9 @@ div.person {
   div.person .person-thumbnail {
     width: 8em; }
     div.person .person-thumbnail .person-avatar {
-      overflow: hidden;
-      border-radius: 50%;
-      height: 6em;
-      width: 6em;
-      margin: 0em 2em 1em 0; }
+      
+      height: 20px;
+      width: 20px; }
     div.person .person-thumbnail .person-image {
       height: 20px;
       width: 20px;
