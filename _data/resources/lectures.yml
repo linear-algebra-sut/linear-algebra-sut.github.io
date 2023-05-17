@@ -3,7 +3,7 @@ lecture:
     resources:
       - resource:
           type: 'Notes'
-          link: 'https://github.com/linear-algebra-sut/lecture-notes/blob/main/Slides/Original/Lecture%2001.pdf'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2001.pdf'
       - resource:
           type: 'Notes'
           link: '../assets/notes/orca.pdf'
