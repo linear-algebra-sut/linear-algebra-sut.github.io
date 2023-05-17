@@ -1,7 +1,7 @@
 title: Linear Algebra # title which appears for the website
 email: sinaaelahimanesh@gmail.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
-    A jekyll template for creating course websites.
+    Linear Algebra Course - Sharif University of Technology
  
 baseurl: "info"   # specify the subpath of your site
 url: "https://linear-algebra-sut.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
