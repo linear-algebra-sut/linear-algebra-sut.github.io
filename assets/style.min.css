@@ -128,7 +128,7 @@ div.person {
       margin: 0em 2em 1em 0; }
     div.person .person-thumbnail .person-image {
       height: 100%;
-      width: 100%;
+/*       width: 100%; */
       display: inline-block;
       background-size:cover; 
     }
