@@ -1,8 +1,36 @@
 syllabus:
   - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    content: "Vector spaces <br>
+Linear mapping and matrix <br>
+Linear mapping vector space <br>
+Algebraic structure of linear mapping <br>
+Matrix and rank <br>
+Inverse linear mapping <br>
+duality <br>
+Linear devices <br>
+volume and determinants <br>
+Polynomials <br>
+Polynomial zeros <br>
+Polynomial factorization in mixed and real fields <br>
+Eigenvalues ​​and eigenvectors <br>
+Fixed subspaces <br>
+Eigenvectors and eigenvalues <br>
+Linear independent eigenvectors <br>
+Special spaces and diagonalization of matrices <br>
+Internal multiplicative spaces <br>
+Inner multiplication and distance definition <br>
+Orthogonal bases <br>
+Operators of internal multiplicative spaces <br>
+Operators and parsing <br>
+Polar decomposition <br>
+Analysis of single values <br>
+Cholsky analysis <br>
+Analysis of LU <br>
+QR analysis <br>
+Additive operators <br>
+Normal operators <br>
+Unitary and isometric operators <br>
+Positive operators"
 
   - heading: Materials  
     content: " {Recommended Materials} <br>
@@ -22,6 +50,7 @@ syllabus:
       Suspendisse interdum consectetur libero id faucibus nisl."
 
   - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    content: " <ul><li>Assignments: 50% (20% Homework Assignments + 30% Programming Exercises) </li>
+                <li>Midterm Exam: 25%</li>
+                <li>Final Exam: 25%</li></ul>
+     All communicated/handled on CW. "
