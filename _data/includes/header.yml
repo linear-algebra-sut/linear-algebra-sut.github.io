@@ -19,12 +19,10 @@ navbar:
   - tabname: SYLLABUS
     link: syllabus
     subtopic:
-    - subtab: Technology
+    - subtab: Course Topics
       sub_link: syllabus#technology  
-    - subtab: Materials
+    - subtab: Slides
       sub_link: syllabus#Materials 
-    - subtab: Late Policy
-      sub_link: syllabus#Late Policy
     - subtab: Grading Policy
       sub_link: syllabus#Grading Policy 
 
@@ -38,5 +36,3 @@ navbar:
       sub_link: resources#Lecture Slides  
     - subtab: Online Resources
       sub_link: resources#Online Resources  
-    - subtab: Misc Links
-      sub_link: resources#Misc Links 
