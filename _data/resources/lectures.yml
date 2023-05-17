@@ -19,12 +19,6 @@ lecture:
       - resource:
           type: 'Notes'
           link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2004.pdf'
-  
-  - lec: 'Lecture 5'
-    resources:
-      - resource:
-          type: 'Notes'
-          link: 'https://github.com/linear-algebra-sut/lecture-notes/blob/main/Slides/Original/Lecture%2005.pdf'
 
 
 # (Uncomment the above code to add Lecture 4 and its links.
