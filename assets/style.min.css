@@ -122,12 +122,12 @@ div.person {
     width: 8em; }
     div.person .person-thumbnail .person-avatar {
       
-      height: 20px;
-      width: 20px; }
+      height: 30px;
+      width: 30px; }
     div.person .person-thumbnail .person-image {
       height: 20px;
       width: 20px;
-      display: inline-block;
+/*       display: inline-block; */
 /*       background-size:cover;  */
     }
 div.person .person-name {
