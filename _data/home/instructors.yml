@@ -1,12 +1,6 @@
 instructor:
-- name: Alpha Beta
-  github: https://github.com/atharva-chandak #instrucor's github link
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
-  consultation: 'Sat 6:30 - 7:30pm, 6116A'
-
-- name: Gamma Delta
-  github: https://github.com/atharva-chandak 
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
-  consultation: 'Mon 6:30 - 7:30pm, 6116B'
+- name: Samira Hossein Ghorban 
+  github: https://scholar.google.com/citations?user=XAta_TgAAAAJ&hl=en
+  email: s.hosseinghorban@ipm.ir
+  img: assets/instructor.jpg
+  class: 'Sundays, Tuesdays / 6:00 PM - 7:30 PM'
