@@ -1,9 +1,9 @@
 lecture:
-  - lec: 'Lecture 1
+  - lec: 'Lecture 1: Topic Name1' #edit Topic Name
     resources:
       - resource:
-          type: 'Notes'
-          link: 'https://github.com/linear-algebra-sut/lecture-notes/blob/main/Slides/Original/Lecture%2001.pdf'
+          type: 'Slides'
+          link: '../assets/slides/orca.pptx'
       - resource:
           type: 'Notes'
           link: '../assets/notes/orca.pdf'
