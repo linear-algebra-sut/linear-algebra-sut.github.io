@@ -19,6 +19,140 @@ lecture:
       - resource:
           type: 'Notes'
           link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2004.pdf'
+          
+  - lec: 'Lecture 5' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2005.pdf'
+  - lec: 'Lecture 6'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2006.pdf'
+  - lec: 'Lecture 7'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2007.pdf'
+  - lec: 'Lecture 8'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2008.pdf'  
+  - lec: 'Lecture 9' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2009.pdf'
+  - lec: 'Lecture 10'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2010.pdf'
+  - lec: 'Lecture 11'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2011.pdf'
+  - lec: 'Lecture 12'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2012.pdf'
+          
+  - lec: 'Lecture 13' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2013.pdf'
+  - lec: 'Lecture 14'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2014.pdf'
+  - lec: 'Lecture 15'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2015.pdf'
+  - lec: 'Lecture 16'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2016.pdf'            
+  - lec: 'Lecture 17'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2017.pdf'
+  - lec: 'Lecture 18'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2018.pdf'
+          
+  - lec: 'Lecture 19' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2019.pdf'
+  - lec: 'Lecture 20'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2020.pdf'
+  - lec: 'Lecture 21'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2021.pdf'
+  - lec: 'Lecture 22'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2022.pdf'  
+  - lec: 'Lecture 23' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2023.pdf'
+  - lec: 'Lecture 24'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2024.pdf'
+  - lec: 'Lecture 25'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2025.pdf'
+  - lec: 'Lecture 26'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2026.pdf'
+          
+  - lec: 'Lecture 17' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2027.pdf'
+  - lec: 'Lecture 28'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2028.pdf'
+  - lec: 'Lecture 29'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2029.pdf'
+  - lec: 'Lecture 30'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/linear-algebra-sut/lecture-notes/raw/main/Slides/Original/Lecture%2030.pdf'            
 
 
 # (Uncomment the above code to add Lecture 4 and its links.
